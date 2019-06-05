@@ -1,0 +1,15 @@
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\BankRepository\obj\Debug\netcoreapp2.1\BankRepository.csproj.CoreCompileInputs.cache
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\BankRepository\obj\Debug\netcoreapp2.1\BankRepository.AssemblyInfoInputs.cache
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\BankRepository\obj\Debug\netcoreapp2.1\BankRepository.AssemblyInfo.cs
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\BankRepository\bin\Debug\netcoreapp2.1\BankRepository.deps.json
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\BankRepository\bin\Debug\netcoreapp2.1\BankRepository.runtimeconfig.json
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\BankRepository\bin\Debug\netcoreapp2.1\BankRepository.runtimeconfig.dev.json
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\BankRepository\bin\Debug\netcoreapp2.1\BankRepository.dll
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\BankRepository\obj\Debug\netcoreapp2.1\BankRepository.csprojAssemblyReference.cache
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\BankRepository\obj\Debug\netcoreapp2.1\BankRepository.RazorAssemblyInfo.cache
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\BankRepository\obj\Debug\netcoreapp2.1\BankRepository.RazorAssemblyInfo.cs
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\BankRepository\obj\Debug\netcoreapp2.1\BankRepository.RazorTargetAssemblyInfo.cache
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\BankRepository\bin\Debug\netcoreapp2.1\BankRepository.pdb
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\BankRepository\obj\Debug\netcoreapp2.1\BankRepository.dll
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\BankRepository\obj\Debug\netcoreapp2.1\BankRepository.pdb
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\BankRepository\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs

@@ -1,0 +1,15 @@
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\AgentRepository\bin\Debug\netcoreapp2.1\AgentRepository.deps.json
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\AgentRepository\bin\Debug\netcoreapp2.1\AgentRepository.runtimeconfig.json
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\AgentRepository\bin\Debug\netcoreapp2.1\AgentRepository.runtimeconfig.dev.json
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\AgentRepository\bin\Debug\netcoreapp2.1\AgentRepository.dll
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\AgentRepository\bin\Debug\netcoreapp2.1\AgentRepository.pdb
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\AgentRepository\obj\Debug\netcoreapp2.1\AgentRepository.csprojAssemblyReference.cache
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\AgentRepository\obj\Debug\netcoreapp2.1\AgentRepository.csproj.CoreCompileInputs.cache
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\AgentRepository\obj\Debug\netcoreapp2.1\AgentRepository.RazorAssemblyInfo.cache
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\AgentRepository\obj\Debug\netcoreapp2.1\AgentRepository.RazorAssemblyInfo.cs
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\AgentRepository\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\AgentRepository\obj\Debug\netcoreapp2.1\AgentRepository.AssemblyInfoInputs.cache
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\AgentRepository\obj\Debug\netcoreapp2.1\AgentRepository.AssemblyInfo.cs
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\AgentRepository\obj\Debug\netcoreapp2.1\AgentRepository.RazorTargetAssemblyInfo.cache
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\AgentRepository\obj\Debug\netcoreapp2.1\AgentRepository.dll
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\AgentRepository\obj\Debug\netcoreapp2.1\AgentRepository.pdb

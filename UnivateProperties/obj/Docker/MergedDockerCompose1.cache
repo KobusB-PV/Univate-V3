@@ -1,0 +1,19 @@
+services:
+  bankrepository:
+    build:
+      context: C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties
+      dockerfile: BankRepository/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTPS_PORT: '44346'
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: bankrepository
+    ports:
+    - published: 61071
+      target: 80
+    - published: 44346
+      target: 443
+    volumes:
+    - C:\Users\kobusb\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\kobusb\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

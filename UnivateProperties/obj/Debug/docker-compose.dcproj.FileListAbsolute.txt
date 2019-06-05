@@ -1,0 +1,5 @@
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\bin\Debug\BankRepository.dll
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\bin\Debug\BankRepository.pdb
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\kobusb\Source\Repos\Univate-V3\UnivateProperties\obj\Debug\docker-compose.dcproj.CopyComplete
